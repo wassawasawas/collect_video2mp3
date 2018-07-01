@@ -73,7 +73,7 @@ If you pass execution type as an argument, only download or convert.
 python collect.py listfile -e download
 ```
 
-* convert
+* convert  
 convert video files under working directory to mp3 format.
 ```
 python collect.py listfile -e convert
